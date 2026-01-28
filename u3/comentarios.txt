@@ -1,0 +1,6 @@
+comentarios
+utilizamos el "for in" que es para el array
+buscar en el pdf de la unidad 3 en la página 15
+aclama el profesor "esto lo veremos en su momento"
+o sea
+nos preguntará y nadie tendrá ni idea de lo que habla.
